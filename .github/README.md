@@ -1,4 +1,4 @@
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━
 
 <<h2 align="center">
     -「ʟᴇᴀʀɴɪɴɢ ʙᴏᴛꜱ」-
@@ -9,13 +9,9 @@
 </h2>
 
 <h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
+    ─「  」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic) </b>
-- <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram) </b>
-- <b>[ʟᴀᴋʏ](https://github.com/Laky-64)  ғᴏʀ  [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) </b>
-
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousX1025/FallenMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+- <b>[YouTube Channel](https://youtube.com/@Learning_Bots) </b>
 
 ━━━━━━━━━━━━━━━━━━━━
