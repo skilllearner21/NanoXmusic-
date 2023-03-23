@@ -1,6 +1,6 @@
 ━━━━━━━━━━━━━━━
 
-<<h2 align="center">
+<h2 align="center">
     -「ʟᴇᴀʀɴɪɴɢ ʙᴏᴛꜱ」-
 </h2>
 <p align="center">
@@ -9,9 +9,9 @@
 </h2>
 
 <h3 align="center">
-    ─「  」─
+    ─「ʟʙ ᴍᴜꜱɪᴄ」─
 </h3>
 
-- <b>[YouTube Channel](https://youtube.com/@Learning_Bots) </b>
+- <b>[ʏᴛ ᴄʜᴀɴɴᴇʟ](https://youtube.com/@Learning_Bots) </b>
 
 ━━━━━━━━━━━━━━━━━━━━
