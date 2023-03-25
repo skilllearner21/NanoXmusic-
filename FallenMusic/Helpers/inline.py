@@ -51,7 +51,7 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="♢ ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs ♢", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="💛 ᴄʜᴀɴɴᴇʟ 💛", url=https://telegram.im/@learningbots79"),
+        InlineKeyboardButton(text="💛 ᴄʜᴀɴɴᴇʟ 💛", url="https://telegram.im/@learningbots79"),
         InlineKeyboardButton(text="🍒 sᴜᴩᴩᴏʀᴛ 🍒", url=config.SUPPORT_CHAT),
     ],
     [
