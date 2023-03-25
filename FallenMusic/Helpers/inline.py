@@ -51,14 +51,14 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="♢ ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs ♢", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="💛 ᴄʜᴀɴɴᴇʟ 💛", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="💛 ᴄʜᴀɴɴᴇʟ 💛", url=https://telegram.im/@learningbots79"),
         InlineKeyboardButton(text="🍒 sᴜᴩᴩᴏʀᴛ 🍒", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="🌝 sᴏᴜʀᴄᴇ 🌝", url="https://youtube.com/@Learning_Bots"
+            text="𖥳 sᴏᴜʀᴄᴇ 𖥳", url="https://youtube.com/@Learning_Bots"
         ),
-        InlineKeyboardButton(text="😇 ᴅᴇᴠᴇʟᴏᴩᴇʀ 😇", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="𖥳 ᴅᴇᴠᴇʟᴏᴩᴇʀ 𖥳", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -76,9 +76,9 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🌝 sᴏᴜʀᴄᴇ 🌝", url="https://youtube.com/@Learning_Bots"
+            text="𖥳 sᴏᴜʀᴄᴇ 𖥳", url="https://youtube.com/@Learning_Bots"
         ),
-        InlineKeyboardButton(text="😇 ᴅᴇᴠᴇʟᴏᴩᴇʀ 😇", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="𖥳 ᴅᴇᴠᴇʟᴏᴩᴇʀ 𖥳", user_id=config.OWNER_ID),
     ],
 ]
 
