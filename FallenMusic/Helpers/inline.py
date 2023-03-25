@@ -26,7 +26,7 @@ import config
 from FallenMusic import BOT_USERNAME
 
 close_key = InlineKeyboardMarkup(
-    [[InlineKeyboardButton(text="✯ ᴄʟᴏsᴇ ✯", callback_data="close")]]
+    [[InlineKeyboardButton(text="⌦ ᴄʟᴏsᴇ ⌫", callback_data="close")]]
 )
 
 
@@ -45,11 +45,11 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+            text="♢ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ♢",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
-    [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
+    [InlineKeyboardButton(text="♢ ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs ♢", callback_data="fallen_help")],
     [
         InlineKeyboardButton(text="💛 ᴄʜᴀɴɴᴇʟ 💛", url=config.SUPPORT_CHANNEL),
         InlineKeyboardButton(text="🍒 sᴜᴩᴩᴏʀᴛ 🍒", url=config.SUPPORT_CHAT),
@@ -66,7 +66,7 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="😚 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 😚",
+            text="♢ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ♢",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
